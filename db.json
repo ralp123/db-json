@@ -11,4 +11,16 @@
   "profile": {
     "name": "typicode"
   }
+  "users": [
+    {
+      "id": 1,
+      "name": "Larp Larp",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Motty Motty",
+      "gender": "male"
+    }
+  ]
 }
